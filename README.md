@@ -1,5 +1,4 @@
 # Machine-Learning-Python
-Machine Learning in Python
 
 Applying ML algorithms in python using libraries numpy, scipy, matplotlib on Anaconda platform.
 
